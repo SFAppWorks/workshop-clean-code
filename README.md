@@ -88,8 +88,6 @@ Clean code isn't just a good practice; it's a long-term investment that pays off
 - **DRY (Don't Repeat Yourself)**: Explain it and show how to refactor repetitive code.
 - **SOLID Principles**
   - S - Single Responsibility Principle (SRP)
-    - https://bitbucket.org/sfaw/kickfin/src/master/services/mailer/index.js
-    - https://bitbucket.org/sfaw/covia-mumble-dashboard/src/master/services/device-events.js
   - O - Open/Closed Principle (OCP)
   - L - Liskov Substitution Principle (LSP) - maybe separate workshop
   - I - Interface Segregation Principle (ISP)
