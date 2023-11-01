@@ -11,7 +11,7 @@ class Address {
         this.state = state;
         this.zip = zip;
     }
-    }
+}
 
 function createUser(name, age, address) {
     // ...
